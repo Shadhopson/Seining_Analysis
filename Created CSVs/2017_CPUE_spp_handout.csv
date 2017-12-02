@@ -1,34 +1,40 @@
-Common Name,Scientific Name,Family,Suborder,Order,Series,Superorder,Subdivision,Spatial Guild
-American Eel,Anguilla rostrata,Anguillidae,Anguilloidei,Anguilliformes,-,-,Elopomorpha,Hard-Benthic
-Common Carp,Cyprinus carpio,Cyprinidae,-,Cypriniformes,-,Ostariophysi,Ostarioclupeomorpha,Sheltered Shallow
-Channel Catfish,Ictalurus punctatus,Ictaluridae,-,Siluriformes,-,Ostariophysi,Ostarioclupeomorpha,Sheltered Shallow
-Alewife,Alosa pseudoharengus,Clupeidae,-,Clupeiformes,-,Clupeomorpha,Ostarioclupeomorpha,Pelagic
-Blueback Herring,Alosa aestivalis,Clupeidae,-,Clupeiformes,-,Clupeomorpha,Ostarioclupeomorpha,Pelagic
-American Shad,Alosa sapidissima,Clupeidae,-,Clupeiformes,-,Clupeomorpha,Ostarioclupeomorpha,Pelagic
-Atlantic Menhaden,Brevoortia tyrannus,Clupeidae,-,Clupeiformes,-,Clupeomorpha,Ostarioclupeomorpha,Pelagic
-Bay Anchovy,Anchoa mitchilli,Engraulidae,-,Clupeiformes,-,Clupeomorpha,Ostarioclupeomorpha,Pelagic
-Mummichog,Fundulus heteroclitus,Fundulidae,-,Cyprinodontiformes,Atherinomorpha,Acanthopterygii,Euteleostei,Sheltered Shallow
-Atlantic Silverside,Menidia menidia,Atherinopsidae,-,Atheriniformes,Atherinomorpha,Acanthopterygii,Euteleostei,Pelagic
-Atlantic Needlefish,Strongylura marina,Belonidae,-,Beloniformes,Atherinomorpha,Acanthopterygii,Euteleostei,Pelagic
-White Perch,Morone americana,Moronidae,Percoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Proximo-Benthic
-Striped Bass,Morone saxatilis,Moronidae,Percoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Proximo-Benthic
-Bluefish,Pomatomus saltatrix,Pomatomidae,Percoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Proximo-Benthic
-Northern Kingfish,Menticirrhus saxatilis,Sciaenidae,Percoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Proximo-Benthic
-Atlantic Croaker,Micropogonias undulatus,Sciaenidae,Percoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Proximo-Benthic
-Tautog (Blackfish),Tautoga onitis,Labridae,Labroidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Hard-Benthic
-Cunner (Bergall),Tautogolabrus adspersus,Labridae,Labroidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Hard-Benthic
-American Butterfish,Peprilus triacanthus,Stromateidae,Stromateoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Pelagic
-Feather Blenny,Hypsoblennius hentz,Blenniidae,Blennioidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Sheltered Shallow
-Seaboard Goby,Gobiosoma ginsburgi,Gobiidae,Gobioidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Sheltered Shallow
-Skilletfish,Gobiesox strumosus,Gobiesocidae,Gobiesocoidei,Perciformes,Percomorpha,Acanthopterygii,Euteleostei,Hard-Benthic
-Atlantic Tomcod,Microgadus tomcod,Gadidae,-,Gadiformes,-,Paracanthopterygii,Euteleostei,Proximo-Benthic
-Spotted Hake,Urophycis regia,Phycidae,-,Gadiformes,-,Paracanthopterygii,Euteleostei,Proximo-Benthic
-Oyster Toadfish,Opsanus tau,Batrachoididae,-,Battrochoidiformes,-,Paracanthopterygii,Euteleostei,Hard-Benthic
-Lined Seahorse,Hippocampus erectus,Syngnathidae,-,Gasterosteiformes,Percomorpha,Acanthopterygii,Euteleostei,Weed
-Northern Pipefish,Syngnathus fuscus,Syngnathidae,-,Gasterosteiformes,Percomorpha,Acanthopterygii,Euteleostei,Weed
-Summer Flounder,Paralichthys dentatus,Paralichthyidae,Pleuronectoidei,Pleuronectiformes,Percomorpha,Acanthopterygii,Euteleostei,Soft-Benthic
-Windowpane Flounder,Scophthalmus aquosus,Scophthalmidae,Pleuronectoidei,Pleuronectiformes,Percomorpha,Acanthopterygii,Euteleostei,Soft-Benthic
-Hogchoker,Trinectes maculatus,Achiridae,Pleuronectoidei,Pleuronectiformes,Percomorpha,Acanthopterygii,Euteleostei,Soft-Benthic
-Winter Flounder,Pseudopleuronectes americanus,Pleuronectidae,Pleuronectoidei,Pleuronectiformes,Percomorpha,Acanthopterygii,Euteleostei,Soft-Benthic
-,,,,,,,,
-,,,,,,,,
+Common Name,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,Spatial Guild
+American Eel,0,0,0,0,2,3,0,0,1,1,Hard-Benthic
+Common Carp,,,,,,,,,,,Sheltered Shallow
+Channel Catfish,,,,,,,,,,,Sheltered Shallow
+Alewife,,,,,,,,,,,Pelagic
+Herring,0,0,0,66,10,1,2,13,0,143,Pelagic
+Blueback Herring,,,,,,,,,,,Pelagic
+American Shad,0,0,0,0,0,0,0,0,0,1,Pelagic
+Atlantic Menhaden,0,0,0,0,0,0,1,5,66,3,Pelagic
+Bay Anchovy,1,1,0,150,23,1,0,0,16,1,Pelagic
+Mummichog,,,,,,,,,,,Sheltered Shallow
+Atlantic Silverside,1,1,13,255,180,72,23,500,193,36,Pelagic
+Atlantic Needlefish,,,,,,,,,,,Pelagic
+White Perch,0,0,0,1,0,0,0,4,0,0,Proximo-Benthic
+Silver Perch,0,0,0,0,1,0,0,0,1,6,Proximo-Benthic
+Wrasel Sea Bass,0,0,0,0,3,0,0,0,0,0,Proximo-Benthic
+Sea Bass,0,0,0,0,0,1,0,0,21,1,Proximo-Benthic
+Striped Bass,1,1,7,24,3,2,35,56,16,42,Proximo-Benthic
+Bluefish,0,0,6,2,3,37,1,2,0,1,Proximo-Benthic
+Northern Kingfish,1,0,1,1,0,0,1,0,3,1,Proximo-Benthic
+Atlantic Croaker,,,,,,,,,,,Proximo-Benthic
+Tautog (Blackfish),0,0,0,0,0,0,0,4,1,7,Hard-Benthic
+Cunner (Bergall),0,0,0,0,1,0,0,1,5,2,Hard-Benthic
+American Butterfish,,,,,,,,,,,Pelagic
+Feather Blenny,,,,,,,,,,,Sheltered Shallow
+Naked Goby,0,0,0,1,0,0,0,0,1,0,Sheltered Shallow
+Seaboard Goby,,,,,,,,,,,Sheltered Shallow
+Skilletfish,0,0,0,1,1,0,0,0,0,0,Hard-Benthic
+Atlantic Tomcod,0,0,1,7,34,0,2,0,3,1,Proximo-Benthic
+Spotted Hake,0,0,0,0,6,0,0,0,0,0,Proximo-Benthic
+Oyster Toadfish,1,0,2,2,2,1,1,0,2,1,Hard-Benthic
+Lined Seahorse,0,1,0,0,0,0,1,0,0,0,Weed
+Northern Pipefish,1,2,10,5,5,1,1,6,7,4,Weed
+Summer Flounder,,,,,,,,,,,Soft-Benthic
+Windowpane Flounder,,,,,,,,,,,Soft-Benthic
+Hogchoker,,,,,,,,,,,Soft-Benthic
+Flatfish,1,0,9,7,8,1,7,10,7,9,Soft-Benthic
+Winter Flounder,,,,,,,,,,,Soft-Benthic
+,,,,,,,,,,,
+,,,,,,,,,,,
