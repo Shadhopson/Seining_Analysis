@@ -24,7 +24,7 @@ Cunner (Bergall),0,0,0,0,1,0,0,1,5,2,Hard-Benthic
 American Butterfish,,,,,,,,,,,Pelagic
 Feather Blenny,,,,,,,,,,,Sheltered Shallow
 Naked Goby,0,0,0,1,0,0,0,0,1,0,Sheltered Shallow
-Seaboard Goby,,,,,,,,,,,Sheltered Shallow
+Seaboard Goby,0,0,0,0,0,0,0,0,1,0,Sheltered Shallow
 Skilletfish,0,0,0,1,1,0,0,0,0,0,Hard-Benthic
 Atlantic Tomcod,0,0,1,7,34,0,2,0,3,1,Proximo-Benthic
 Spotted Hake,0,0,0,0,6,0,0,0,0,0,Proximo-Benthic
@@ -36,5 +36,3 @@ Windowpane Flounder,,,,,,,,,,,Soft-Benthic
 Hogchoker,,,,,,,,,,,Soft-Benthic
 Flatfish,1,0,9,7,8,1,7,10,7,9,Soft-Benthic
 Winter Flounder,,,,,,,,,,,Soft-Benthic
-,,,,,,,,,,,
-,,,,,,,,,,,
