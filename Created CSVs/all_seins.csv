@@ -459,6 +459,7 @@
 49,2013-09-23 00:00:00,1,mud crab
 50,2013-09-23 00:00:00,50,comb jelly
 51,2013-09-28 00:00:00,5,silverside
+52,2013-10-01 00:00:00,2,Atlantic SIlverside
 0,2014-05-10 00:00:00,9,Comb Jellies
 1,2014-05-10 00:00:00,8,Asian Shore Crabs
 2,2014-05-10 00:00:00,2,True Jelly Fish
@@ -494,102 +495,114 @@
 32,2014-09-20 00:00:00,23,Striped Bass
 33,2014-09-20 00:00:00,3,Asian Shore Crabs
 34,2014-09-20 00:00:00,1,Winter Flounder
-35,2014-08-23 00:00:00,,Atlantic Silverside
-36,2014-08-23 00:00:00,,Oyster toadfish
-37,2014-08-23 00:00:00,,Striped Bass
-38,2014-08-23 00:00:00,,comb jelly
-0,2015-05-30 00:00:00,1,Striped Bass
-1,2015-05-30 00:00:00,1,Atlantic Silverside
-2,2015-05-30 00:00:00,2,Sea Snail
-3,2015-05-30 00:00:00,3,Ghost Shrimp
-4,2015-06-09 00:00:00,9,Striped Bass
-5,2015-06-09 00:00:00,1,Golden Star Colonial Tunicate
-6,2015-06-09 00:00:00,1,Blue Muscle
-7,2015-06-11 00:00:00,1,colonial tunicate
-8,2015-06-11 00:00:00,8,striped bass
-9,2015-06-11 00:00:00,1,pipe fish
-10,2015-06-11 00:00:00,1,box crab
-11,2015-06-11 00:00:00,6,asian shore crab
-12,2015-06-14 00:00:00,1,pipe fish
-13,2015-06-14 00:00:00,1,winter flounder
-14,2015-06-14 00:00:00,10 to 15,colonial tunicate
-15,2015-06-14 00:00:00,4,hermit crab
-16,2015-06-14 00:00:00,4,snails
-17,2015-06-14 00:00:00,5,striped bass
-18,2015-06-14 00:00:00,1,cunner
-19,2015-06-14 00:00:00,2,lady crab
-20,2015-06-14 00:00:00,16,asian shore crab
-21,2015-06-14 00:00:00,1,blue crab
-22,2015-06-14 00:00:00,1,sponge
-23,2015-06-14 00:00:00,4,hydra medusa
-24,2015-06-14 00:00:00,9,sand shrimp
-25,2015-07-10 00:00:00,1,Summer Flounder
-26,2015-07-10 00:00:00,23,Atlantic Silverside
-27,2015-07-10 00:00:00,1,Winter flounder
-28,2015-07-10 00:00:00,1,Blue crab
-29,2015-07-10 00:00:00,1,Box crab
-30,2015-07-10 00:00:00,1,Pip fish
-31,2015-07-10 00:00:00,1,Seven spine shrimp
-32,2015-07-10 00:00:00,9,Alewife
-33,2015-07-10 00:00:00,1,Comb jelly
-34,2015-07-11 00:00:00,2,lady crabs
-35,2015-07-11 00:00:00,2,Blue crabs
-36,2015-07-11 00:00:00,5,Striped Bass (6-8'')
-37,2015-07-11 00:00:00,1,Atlantic Herring
-38,2015-07-11 00:00:00,2,Hermit crabs
-39,2015-07-11 00:00:00,12,Atlantic Silverside
-40,2015-07-11 00:00:00,2,Sand shrimp
-41,2015-07-11 00:00:00,1,Flounder (right+eye)
-42,2015-07-11 00:00:00,,Pip fish
-43,2015-07-11 00:00:00,4,White perch
-44,2015-07-11 00:00:00,1,Asian shore crab
-45,2015-07-11 00:00:00,1,Comb jelly
-46,2015-07-11 00:00:00,2,snail
-47,2015-07-13 00:00:00,1,Blue crab
-48,2015-07-13 00:00:00,3,asian shore crab
-49,2015-07-13 00:00:00,3,Atlantic Herring
-50,2015-07-13 00:00:00,10,Atlantic Silverside
-51,2015-07-28 00:00:00,40,Atlantic Silverside
-52,2015-07-28 00:00:00,15,Striped Bass
-53,2015-07-28 00:00:00,1,winter flounder
-54,2015-07-28 00:00:00,1,Isopod
-55,2015-07-28 00:00:00,4,Comb jelly
-56,2015-07-28 00:00:00,1,Seven Spine Shrimp
-57,2015-07-28 00:00:00,4,Scud
-58,2015-07-28 00:00:00,8,Tunicates
-59,2015-08-09 00:00:00,140,Atlantic Silverside
-60,2015-08-09 00:00:00,12,Striped Bass
-61,2015-08-09 00:00:00,2,Hermit crab
-62,2015-08-09 00:00:00,2,Taotog
-63,2015-08-09 00:00:00,4,Asian shore crab
-64,2015-08-09 00:00:00,1,Blue fish
-65,2015-08-09 00:00:00,2,Box crab
-66,2015-08-09 00:00:00,20,Comb jellies
-67,2015-08-09 00:00:00,1,Seven spine shrimp
-68,2015-09-12 00:00:00,23,Porgy
-69,2015-09-12 00:00:00,201,Atlantic Silverside
-70,2015-09-12 00:00:00,2,Northern Pipefish
-71,2015-09-12 00:00:00,1,Blue Crab
-72,2015-09-12 00:00:00,1,Common Shore Shrimp
-73,2015-09-12 00:00:00,2,Winter flounder
-74,2015-09-12 00:00:00,1,Bluespotted Cornetfish
-75,2015-09-12 00:00:00,2,Comb Jelly 
-76,2015-09-12 00:00:00,2,Asian shore crab
-77,2015-09-25 00:00:00,73,Atlantic Silverside
-78,2015-09-25 00:00:00,1,Blue Crab
-79,2015-09-25 00:00:00,2,Comb Jelly
-80,2015-09-25 00:00:00,1,Blue Fish
-81,2015-09-25 00:00:00,1,Tautog/Blackfish
-82,2015-09-25 00:00:00,8,Asian shore crab
-83,2015-09-25 00:00:00,1,Oyster Drill
-84,2015-09-25 00:00:00,5,Menhaden
-85,2015-10-15 00:00:00,3,Winter Flounder (right+eye)
-86,2015-10-15 00:00:00,1,Blackfish/ Tautog 
-87,2015-10-15 00:00:00,1,Striped Bass 
-88,2015-10-15 00:00:00,6,Comb Jelly
-89,2015-10-15 00:00:00,1,Common Shore Shrimp
-90,2015-10-15 00:00:00,1,Sheepshead Porgy
-91,2015-10-15 00:00:00,8,Blue Mussel
+35,2014-08-23 00:00:00,20,Atlantic Silverside
+36,2014-08-23 00:00:00,1,Oyster toadfish
+37,2014-08-23 00:00:00,1,Striped Bass
+38,2014-08-23 00:00:00,20+,comb jelly
+0,2015-05-07 00:00:00,5,Glass Shrimp
+1,2015-05-07 00:00:00,1,Sand Worm
+2,2015-05-07 00:00:00,3,Asian shore crab
+3,2015-05-30 00:00:00,1,Striped Bass
+4,2015-05-30 00:00:00,1,Atlantic Silverside
+5,2015-05-30 00:00:00,2,Sea Snail
+6,2015-05-30 00:00:00,3,Ghost Shrimp
+7,2015-06-09 00:00:00,9,Striped Bass
+8,2015-06-09 00:00:00,1,Golden Star Colonial Tunicate
+9,2015-06-09 00:00:00,1,Blue Muscle
+10,2015-06-11 00:00:00,1,colonial tunicate
+11,2015-06-11 00:00:00,8,striped bass
+12,2015-06-11 00:00:00,1,pipe fish
+13,2015-06-11 00:00:00,1,box crab
+14,2015-06-11 00:00:00,6,asian shore crab
+15,2015-06-14 00:00:00,1,pipe fish
+16,2015-06-14 00:00:00,1,winter flounder
+17,2015-06-14 00:00:00,10 to 15,colonial tunicate
+18,2015-06-14 00:00:00,4,hermit crab
+19,2015-06-14 00:00:00,4,snails
+20,2015-06-14 00:00:00,5,striped bass
+21,2015-06-14 00:00:00,1,cunner
+22,2015-06-14 00:00:00,2,lady crab
+23,2015-06-14 00:00:00,16,asian shore crab
+24,2015-06-14 00:00:00,1,blue crab
+25,2015-06-14 00:00:00,1,sponge
+26,2015-06-14 00:00:00,4,hydra medusa
+27,2015-06-14 00:00:00,9,sand shrimp
+28,2015-07-10 00:00:00,1,Summer Flounder
+29,2015-07-10 00:00:00,23,Atlantic Silverside
+30,2015-07-10 00:00:00,1,Winter flounder
+31,2015-07-10 00:00:00,1,Blue crab
+32,2015-07-10 00:00:00,1,Box crab
+33,2015-07-10 00:00:00,1,Pip fish
+34,2015-07-10 00:00:00,1,Seven spine shrimp
+35,2015-07-10 00:00:00,9,Alewife
+36,2015-07-10 00:00:00,1,Comb jelly
+37,2015-07-11 00:00:00,2,lady crabs
+38,2015-07-11 00:00:00,2,Blue crabs
+39,2015-07-11 00:00:00,5,Striped Bass (6-8'')
+40,2015-07-11 00:00:00,1,Atlantic Herring
+41,2015-07-11 00:00:00,2,Hermit crabs
+42,2015-07-11 00:00:00,12,Atlantic Silverside
+43,2015-07-11 00:00:00,2,Sand shrimp
+44,2015-07-11 00:00:00,1,Flounder (right+eye)
+45,2015-07-11 00:00:00,,Pip fish
+46,2015-07-11 00:00:00,4,White perch
+47,2015-07-11 00:00:00,1,Asian shore crab
+48,2015-07-11 00:00:00,1,Comb jelly
+49,2015-07-11 00:00:00,2,snail
+50,2015-07-13 00:00:00,1,Blue crab
+51,2015-07-13 00:00:00,3,asian shore crab
+52,2015-07-13 00:00:00,3,Atlantic Herring
+53,2015-07-13 00:00:00,10,Atlantic Silverside
+54,2015-07-28 00:00:00,40,Atlantic Silverside
+55,2015-07-28 00:00:00,15,Striped Bass
+56,2015-07-28 00:00:00,1,winter flounder
+57,2015-07-28 00:00:00,1,Isopod
+58,2015-07-28 00:00:00,4,Comb jelly
+59,2015-07-28 00:00:00,1,Seven Spine Shrimp
+60,2015-07-28 00:00:00,4,Scud
+61,2015-07-28 00:00:00,8,Tunicates
+62,2015-08-09 00:00:00,140,Atlantic Silverside
+63,2015-08-09 00:00:00,12,Striped Bass
+64,2015-08-09 00:00:00,2,Hermit crab
+65,2015-08-09 00:00:00,2,Taotog
+66,2015-08-09 00:00:00,4,Asian shore crab
+67,2015-08-09 00:00:00,1,Blue fish
+68,2015-08-09 00:00:00,2,Box crab
+69,2015-08-09 00:00:00,20,Comb jellies
+70,2015-08-09 00:00:00,1,Seven spine shrimp
+71,2015-08-15 00:00:00,515,Atlantic Silverside
+72,2015-08-15 00:00:00,1,Seahorse
+73,2015-08-15 00:00:00,3,Striped Bass
+74,2015-08-15 00:00:00,3,Bluefish
+75,2015-08-15 00:00:00,14,Scup
+76,2015-09-08 00:00:00,5,Bass
+77,2015-09-08 00:00:00,15,Silversides
+78,2015-09-08 00:00:00,2,Pin fish
+79,2015-09-12 00:00:00,23,Porgy
+80,2015-09-12 00:00:00,201,Atlantic Silverside
+81,2015-09-12 00:00:00,2,Northern Pipefish
+82,2015-09-12 00:00:00,1,Blue Crab
+83,2015-09-12 00:00:00,1,Common Shore Shrimp
+84,2015-09-12 00:00:00,2,Winter flounder
+85,2015-09-12 00:00:00,1,Bluespotted Cornetfish
+86,2015-09-12 00:00:00,2,Comb Jelly 
+87,2015-09-12 00:00:00,2,Asian shore crab
+88,2015-09-25 00:00:00,73,Atlantic Silverside
+89,2015-09-25 00:00:00,1,Blue Crab
+90,2015-09-25 00:00:00,2,Comb Jelly
+91,2015-09-25 00:00:00,1,Blue Fish
+92,2015-09-25 00:00:00,1,Tautog/Blackfish
+93,2015-09-25 00:00:00,8,Asian shore crab
+94,2015-09-25 00:00:00,1,Oyster Drill
+95,2015-09-25 00:00:00,5,Menhaden
+96,2015-10-15 00:00:00,3,Winter Flounder (right+eye)
+97,2015-10-15 00:00:00,1,Blackfish/ Tautog 
+98,2015-10-15 00:00:00,1,Striped Bass 
+99,2015-10-15 00:00:00,6,Comb Jelly
+100,2015-10-15 00:00:00,1,Common Shore Shrimp
+101,2015-10-15 00:00:00,1,Sheepshead Porgy
+102,2015-10-15 00:00:00,8,Blue Mussel
+103,2015-10-20 00:00:00,22,Comb Jelly
 0,2016-05-26 00:00:00,11,Comb Jelly 
 1,2016-05-31 00:00:00,1,pipefish
 2,2016-05-31 00:00:00,4,Altanic Silverside
@@ -755,6 +768,19 @@
 162,2016-09-25 00:00:00,1,Mud Crab
 163,2016-09-25 00:00:00,1,Blue Crab
 164,2016-09-25 00:00:00,1,Winter Flounder
+165,2016-09-28 00:00:00,TMTC,Comb Jelly 
+166,2016-09-28 00:00:00,6,Asian Shore Crab
+167,2016-09-28 00:00:00,1,Moon Jelly
+168,2016-09-28 00:00:00,31,Silverside
+169,2016-09-28 00:00:00,4,Menhaden
+170,2016-10-01 00:00:00,26,Atlantic Silverside
+171,2016-10-01 00:00:00,5,Porgy
+172,2016-10-01 00:00:00,1,Cunner
+173,2016-10-01 00:00:00,1,Mullet Fish
+174,2016-10-01 00:00:00,2,Blue Crab
+175,2016-10-01 00:00:00,1,Mud Snail
+176,2016-10-01 00:00:00,TMTC,Comb Jelly 
+177,2016-10-01 00:00:00,1,Clam
 0,2017-06-03 00:00:00,TMTC,Comb Jelly
 1,2017-06-03 00:00:00,1,Atlantic Menhaden
 2,2017-06-03 00:00:00,14,YOY Blueback Herring *
@@ -777,7 +803,7 @@
 19,2017-06-09 00:00:00,2,Mud Snail
 23,2017-06-10 00:00:00,5,Blueback Herring *
 24,2017-06-10 00:00:00,1,Pipefish
-25,2017-06-10 00:00:00,2?,Blue Crab
+25,2017-06-10 00:00:00,2,Blue Crab
 26,2017-06-10 00:00:00,3,Asian Shore Crab
 27,2017-06-10 00:00:00,2,Sand Shrimp
 28,2017-06-10 00:00:00,7,Glass shrimp
@@ -786,7 +812,7 @@
 31,2017-06-10 00:00:00,2,mussel
 32,2017-06-10 00:00:00,1,moon jelly
 33,2017-06-10 00:00:00,TMTC,comb jelly
-34,2017-06-10 00:00:00,TMTC,seq squirts
+34,2017-06-10 00:00:00,TMTC,sea squirts
 35,2017-06-10 00:00:00,1,sandworm
 37,2017-06-18 00:00:00,20 +,Comb Jelly
 38,2017-06-18 00:00:00,23,Blueback Herring
@@ -817,10 +843,10 @@
 66,2017-07-15 00:00:00,2,Moon Jelly
 67,2017-07-15 00:00:00,1,Blue Fish
 68,2017-07-15 00:00:00,5,Atlantic Silverside
-69,2017-07-15 00:00:00,,American Eel
-70,2017-07-15 00:00:00,,Tautog
-71,2017-07-15 00:00:00,,Black Sea Bass
-72,2017-07-15 00:00:00,,Cunner
+69,2017-07-15 00:00:00,1,American Eel
+70,2017-07-15 00:00:00,1,Tautog
+71,2017-07-15 00:00:00,1,Black Sea Bass
+72,2017-07-15 00:00:00,1,Cunner
 73,2017-07-15 00:00:00,1 colony,Tunicate /Sponge
 74,2017-07-15 00:00:00,1,Sea Squirt
 75,2017-07-15 00:00:00,5,YOY Striped Bass
