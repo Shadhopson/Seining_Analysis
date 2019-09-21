@@ -1,17 +1,17 @@
 Corrected Common Name,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,Total Caught,Total Seasons,,Corrected Common Name,Total Caught
-alewife,0,0,0,0,0,0,2,9,0,6,0,17,3,,Total Caught Per Year,8049
+alewife,0,0,0,0,0,0,2,9,0,6,0,17,3,,Total Caught Per Year,8060
 american eel,0,0,0,0,2,3,0,0,1,1,0,7,4,,comb jelly,2565
-american shad,0,0,0,0,0,0,0,0,0,1,0,1,1,,atlantic silverside,2349
+american shad,0,0,0,0,0,0,0,0,0,1,0,1,1,,atlantic silverside,2360
 amphipod,0,0,3,2,0,0,0,0,40,0,0,45,3,,striped bass,211
 anemone,0,0,2,0,0,0,0,0,0,0,0,2,1,,asian shore crab,200
 asian shore crab,0,0,4,0,8,13,12,43,50,40,30,200,8,,bay anchovy,197
 atlantic herring,0,0,0,0,0,0,0,4,0,0,0,4,1,,sea squirt,197
 atlantic menhaden,0,0,0,0,0,0,1,5,70,3,53,132,5,,mud snail,181
-atlantic silverside,1,1,13,255,180,74,42,1030,250,37,466,2349,11,,unidentified shrimp,171
+atlantic silverside,1,1,13,255,180,74,42,1030,250,37,477,2360,11,,unidentified shrimp,171
 atlantic tomcod,0,0,1,7,34,0,2,0,3,1,10,58,7,,moon jelly,154
 bay anchovy,1,1,0,150,23,1,0,0,16,1,4,197,8,,atlantic menhaden,132
-black fingered mud crab,0,0,0,0,0,0,0,0,2,0,0,2,1,,shore shrimp,125
-black sea bass,0,0,0,0,0,1,0,0,21,1,0,23,3,,blue crab,125
+black fingered mud crab,0,0,0,0,0,0,0,0,2,0,0,2,1,,blue crab,125
+black sea bass,0,0,0,0,0,1,0,0,21,1,0,23,3,,shore shrimp,125
 blue crab,1,1,10,32,12,4,4,7,16,22,16,125,11,,blueback herring,117
 blue mussel,0,0,1,0,1,0,0,9,2,0,10,23,5,,unidentified snail,105
 blueback herring,0,0,0,0,2,1,0,0,0,114,0,117,3,,unidentified herring,101
@@ -20,86 +20,92 @@ bluespotted cornetfish,0,0,0,0,0,0,0,1,0,0,0,1,1,,eastern oyster,90
 box crab,0,0,0,0,0,0,0,4,0,0,0,4,1,,bluefish,66
 clam,0,0,0,0,0,0,0,0,1,8,1,10,3,,porgy,62
 clam worm probably nereis spp,0,0,1,0,0,0,0,0,0,0,0,1,1,,atlantic tomcod,58
-colonial tunicate,0,0,0,0,0,0,0,11,0,0,0,11,1,,northern pipefish,47
+colonial tunicate,0,0,0,0,0,0,0,11,0,0,0,11,1,,northern pipefish,55
 comb jelly,1,1,14,393,170,485,86,58,887,347,123,2565,11,,amphipod,45
 ctenophore,0,0,0,0,0,20,0,0,0,0,0,20,1,,tunicate,44
 cunner,0,0,0,0,1,0,0,1,6,2,0,10,4,,winter flounder,38
 eastern oyster,0,0,0,17,0,0,0,0,30,43,0,90,3,,golden star tunicate,33
-glass shrimp,0,0,0,0,0,0,0,3,3,1,0,7,3,,seven spine shrimp,32
+glass shrimp,0,0,0,0,0,0,0,3,3,0,0,6,2,,seven spine shrimp,32
 golden star tunicate,0,0,0,1,0,1,0,1,30,0,0,33,4,,unidentified hermit crab,31
-green crab,0,1,1,7,8,0,1,0,10,0,2,30,7,,green crab,30
-grubby,0,0,0,0,0,0,1,0,0,0,0,1,1,,long clawed hermit crab,28
-hogchoker,0,0,0,1,0,0,0,0,0,0,0,1,1,,oyster drill snail,27
-horseshoe crab,0,0,0,0,0,0,0,0,0,0,2,2,1,,blue mussel,23
-hydrozoa,0,1,3,5,0,0,0,4,0,0,0,13,4,,black sea bass,23
-isopod,0,0,0,1,0,0,0,1,0,0,0,2,2,,periwinkle,21
+grass shrimp shore shrimp,0,0,0,0,0,0,0,0,0,1,0,1,1,,green crab,30
+green crab,0,1,1,7,8,0,1,0,10,0,2,30,7,,long clawed hermit crab,28
+grubby,0,0,0,0,0,0,1,0,0,0,0,1,1,,oyster drill snail,27
+hogchoker,0,0,0,1,0,0,0,0,0,0,0,1,1,,blue mussel,23
+horseshoe crab,0,0,0,0,0,0,0,0,0,0,2,2,1,,black sea bass,23
+hydrozoa,0,1,3,5,0,0,0,4,0,0,0,13,4,,periwinkle,21
+isopod,0,0,0,1,0,0,0,1,0,0,0,2,2,,ctenophore,20
 jelly fish,0,0,3,0,0,1,2,0,0,0,0,6,3,,unidentified flatfish,20
-lady crab,1,0,1,0,0,0,0,4,3,2,0,11,5,,ctenophore,20
+lady crab,1,0,1,0,0,0,0,4,3,2,0,11,5,,tautog,17
 lions mane jellyfish,1,1,2,0,0,0,0,0,0,0,0,4,3,,alewife,17
-long clawed hermit crab,0,0,0,0,0,0,0,0,0,0,28,28,1,,tautog,17
-mantis shrimp,1,0,0,0,0,0,0,0,0,0,0,1,1,,hydrozoa,13
-mole crab,0,0,0,0,0,0,0,0,1,0,0,1,1,,oyster toadfish,12
-moon jelly,0,0,0,83,1,25,0,0,3,22,20,154,6,,silver perch,12
-mud crab,0,0,0,0,0,2,0,0,2,4,0,8,3,,mussel,11
-mud snail,0,0,0,0,0,0,0,0,111,32,38,181,3,,lady crab,11
-mullet fish,0,0,0,0,0,0,0,0,1,0,0,1,1,,colonial tunicate,11
-mussel,0,0,0,0,0,0,0,0,10,1,0,11,2,,pin fish,10
-naked goby,0,0,0,1,0,0,0,0,1,0,0,2,2,,clam,10
-northern kingfish,1,0,1,1,0,0,1,0,3,1,0,8,6,,cunner,10
-northern pipefish,1,2,7,5,5,1,0,2,7,4,13,47,10,,sandworm,9
-northern puffer,0,0,4,0,1,0,0,0,0,0,0,5,2,,mud crab,8
-northern sea robin,0,0,1,0,0,0,0,0,1,0,0,2,2,,northern kingfish,8
-northern seahorse,0,1,0,0,0,0,1,1,0,0,0,3,3,,glass shrimp,7
-northern stargazer,0,0,0,0,1,0,0,0,0,0,0,1,1,,american eel,7
-oyster drill snail,0,0,0,0,0,1,0,1,1,24,0,27,4,,skilletfish,6
-oyster toadfish,1,0,2,2,2,1,1,0,2,1,0,12,8,,jelly fish,6
-periwinkle,0,0,0,0,0,0,0,0,0,0,21,21,1,,spotted hake,6
-pin fish,0,0,3,0,0,0,1,6,0,0,0,10,3,,white perch,6
-pollock,0,0,0,0,0,0,0,0,0,0,1,1,1,,northern puffer,5
-porgy,0,0,0,0,3,0,3,37,13,0,6,62,5,,lions mane jellyfish,4
-red beard sponge,0,0,1,0,0,0,0,0,1,0,0,2,2,,box crab,4
-ribbed mussel,0,0,0,0,1,0,0,0,0,0,2,3,2,,summer flounder,4
-sand shrimp,1,1,8,0,0,0,5,14,1,48,17,95,8,,scud,4
-sand worm,0,0,0,1,0,0,0,0,0,0,0,1,1,,atlantic herring,4
-sandworm,0,0,1,0,1,0,0,1,3,2,1,9,6,,northern seahorse,3
-scud,0,0,0,0,0,0,0,4,0,0,0,4,1,,unidentified mussel,3
-sculpin,0,0,0,0,0,0,0,0,0,1,0,1,1,,ribbed mussel,3
-sea robin,0,0,0,0,0,0,0,0,2,0,0,2,1,,wrasel sea bass,3
-sea squirt,1,1,0,75,88,1,0,0,0,31,0,197,6,,spider crab,3
-seaboard goby,0,0,0,0,0,0,0,0,1,0,0,1,1,,western mosquito fish,2
+long clawed hermit crab,0,0,0,0,0,0,0,0,0,0,28,28,1,,hydrozoa,13
+mantis shrimp,1,0,0,0,0,0,0,0,0,0,0,1,1,,oyster toadfish,12
+mole crab,0,0,0,0,0,0,0,0,1,0,0,1,1,,silver perch,12
+moon jelly,0,0,0,83,1,25,0,0,3,22,20,154,6,,mussel,11
+mud crab,0,0,0,0,0,2,0,0,2,4,0,8,3,,lady crab,11
+mud snail,0,0,0,0,0,0,0,0,111,32,38,181,3,,colonial tunicate,11
+mullet fish,0,0,0,0,0,0,0,0,1,0,0,1,1,,clam,10
+mussel,0,0,0,0,0,0,0,0,10,1,0,11,2,,cunner,10
+naked goby,0,0,0,1,0,0,0,0,1,0,0,2,2,,sandworm,9
+needlefish,0,0,0,0,0,0,0,0,0,0,0,0,0,,northern kingfish,8
+northern kingfish,1,0,1,1,0,0,1,0,3,1,0,8,6,,mud crab,8
+northern pipefish,1,2,10,5,5,1,1,6,7,4,13,55,11,,american eel,7
+northern puffer,0,0,4,0,1,0,0,0,0,0,0,5,2,,jelly fish,6
+northern sea robin,0,0,1,0,0,0,0,0,1,0,0,2,2,,glass shrimp,6
+northern seahorse,0,1,0,0,0,0,1,1,0,0,0,3,3,,skilletfish,6
+northern stargazer,0,0,0,0,1,0,0,0,0,0,0,1,1,,spotted hake,6
+oyster drill snail,0,0,0,0,0,1,0,1,1,24,0,27,4,,white perch,6
+oyster toadfish,1,0,2,2,2,1,1,0,2,1,0,12,8,,northern puffer,5
+periwinkle,0,0,0,0,0,0,0,0,0,0,21,21,1,,scud,4
+pin fish,0,0,0,0,0,0,0,2,0,0,0,2,1,,summer flounder,4
+pollock,0,0,0,0,0,0,0,0,0,0,1,1,1,,box crab,4
+polychaete worm,0,0,0,0,0,0,0,0,0,0,0,0,0,,lions mane jellyfish,4
+porgy,0,0,0,0,3,0,3,37,13,0,6,62,5,,atlantic herring,4
+red beard sponge,0,0,1,0,0,0,0,0,1,0,0,2,2,,unidentified mussel,3
+ribbed mussel,0,0,0,0,1,0,0,0,0,0,2,3,2,,ribbed mussel,3
+sand shrimp,1,1,8,0,0,0,5,14,1,48,17,95,8,,northern seahorse,3
+sand worm,0,0,0,1,0,0,0,0,0,0,0,1,1,,spider crab,3
+sandworm,0,0,1,0,1,0,0,1,3,2,1,9,6,,wrasel sea bass,3
+scud,0,0,0,0,0,0,0,4,0,0,0,4,1,,black fingered mud crab,2
+sculpin,0,0,0,0,0,0,0,0,0,1,0,1,1,,anemone,2
+sea robin,0,0,0,0,0,0,0,0,2,0,0,2,1,,western mosquito fish,2
+sea squirt,1,1,0,75,88,1,0,0,0,31,0,197,6,,white mullet,2
+seaboard goby,0,0,0,0,0,0,0,0,1,0,0,1,1,,windowpane flounder,2
 sennet,0,0,1,0,0,0,0,0,0,0,0,1,1,,unidentified sea snail,2
-seven spine shrimp,0,0,0,0,32,0,0,0,0,0,0,32,1,,white mullet,2
-sheepshead porgy,0,0,0,0,0,0,0,1,0,0,0,1,1,,anemone,2
-shore shrimp,1,1,7,0,0,7,4,7,15,25,58,125,9,,windowpane flounder,2
-silver perch,0,0,0,0,1,0,0,0,1,6,4,12,4,,black fingered mud crab,2
-skilletfish,0,0,0,1,1,0,0,0,0,0,4,6,3,,horseshoe crab,2
-spider crab,0,0,0,1,0,0,0,0,2,0,0,3,2,,northern sea robin,2
-spotted hake,0,0,0,0,6,0,0,0,0,0,0,6,1,,isopod,2
-spotted whiff,0,0,0,0,0,0,0,0,0,1,0,1,1,,sea robin,2
-striped bass,1,1,7,24,3,2,35,64,16,43,15,211,11,,red beard sponge,2
-striped burrfish,0,0,0,0,0,0,0,0,0,0,1,1,1,,naked goby,2
+seven spine shrimp,0,0,0,0,32,0,0,0,0,0,0,32,1,,naked goby,2
+sheepshead porgy,0,0,0,0,0,0,0,1,0,0,0,1,1,,red beard sponge,2
+shore shrimp,1,1,7,0,0,7,4,7,15,25,58,125,9,,isopod,2
+silver perch,0,0,0,0,1,0,0,0,1,6,4,12,4,,northern sea robin,2
+skilletfish,0,0,0,1,1,0,0,0,0,0,4,6,3,,sea robin,2
+spider crab,0,0,0,1,0,0,0,0,2,0,0,3,2,,pin fish,2
+spot,0,0,0,0,0,0,0,0,0,0,0,0,0,,horseshoe crab,2
+spotted hake,0,0,0,0,6,0,0,0,0,0,0,6,1,,unidentified sponge,1
+spotted whiff,0,0,0,0,0,0,0,0,0,1,0,1,1,,unidentified jelly fish,1
+striped anchovy,0,0,0,0,0,0,0,0,0,0,0,0,0,,hogchoker,1
+striped bass,1,1,7,24,3,2,35,64,16,43,15,211,11,,pollock,1
+striped burrfish,0,0,0,0,0,0,0,0,0,0,1,1,1,,unidentified snail eggs,1
 striped searobin,1,0,0,0,0,0,0,0,0,0,0,1,1,,sheepshead porgy,1
-summer flounder,0,0,1,0,0,1,0,1,1,0,0,4,4,,american shad,1
-tautog,0,0,0,0,0,0,0,4,1,7,5,17,4,,hogchoker,1
-tube worm,0,0,0,1,0,0,0,0,0,0,0,1,1,,mantis shrimp,1
-tunicate,0,0,0,0,1,0,0,8,34,1,0,44,4,,mole crab,1
-unidentified fish,0,0,0,0,0,0,0,0,1,0,0,1,1,,white fingered mud crab,1
-unidentified flatfish,0,0,2,6,8,0,2,0,0,0,2,20,5,,whelk snail,1
-unidentified hermit crab,1,1,2,2,3,1,1,8,1,1,10,31,11,,grubby,1
-unidentified herring,0,0,0,66,8,0,0,0,0,23,4,101,4,,unidentified sponge,1
-unidentified jelly fish,0,0,1,0,0,0,0,0,0,0,0,1,1,,unidentified snail eggs,1
-unidentified mussel,0,0,0,0,0,0,0,0,1,2,0,3,2,,mullet fish,1
-unidentified sea snail,0,0,0,0,0,0,0,2,0,0,0,2,1,,northern stargazer,1
-unidentified shrimp,0,0,1,129,26,3,0,0,12,0,0,171,5,,sennet,1
-unidentified snail,0,1,2,73,22,1,0,6,0,0,0,105,6,,unidentified jelly fish,1
-unidentified snail eggs,0,0,0,0,0,0,0,0,0,1,0,1,1,,pollock,1
-unidentified sponge,0,0,0,0,0,0,0,1,0,0,0,1,1,,sand worm,1
-western mosquito fish,0,0,0,0,0,0,0,0,2,0,0,2,1,,unidentified fish,1
-whelk snail,0,0,0,0,0,0,0,0,1,0,0,1,1,,sculpin,1
+summer flounder,0,0,1,0,0,1,0,1,1,0,0,4,4,,bluespotted cornetfish,1
+tautog,0,0,0,0,0,0,0,4,1,7,5,17,4,,white fingered mud crab,1
+tube worm,0,0,0,1,0,0,0,0,0,0,0,1,1,,mullet fish,1
+tunicate,0,0,0,0,1,0,0,8,34,1,0,44,4,,northern stargazer,1
+undetermined jelly,0,0,0,0,0,0,0,0,0,0,0,0,0,,american shad,1
+unidentified fish,0,0,0,0,0,0,0,0,1,0,0,1,1,,whelk snail,1
+unidentified flatfish,0,0,2,6,8,0,2,0,0,0,2,20,5,,grubby,1
+unidentified hermit crab,1,1,2,2,3,1,1,8,1,1,10,31,11,,mantis shrimp,1
+unidentified herring,0,0,0,66,8,0,0,0,0,23,4,101,4,,striped searobin,1
+unidentified jelly fish,0,0,1,0,0,0,0,0,0,0,0,1,1,,sennet,1
+unidentified mussel,0,0,0,0,0,0,0,0,1,2,0,3,2,,seaboard goby,1
+unidentified sea snail,0,0,0,0,0,0,0,2,0,0,0,2,1,,grass shrimp shore shrimp,1
+unidentified shrimp,0,0,1,129,26,3,0,0,12,0,0,171,5,,spotted whiff,1
+unidentified snail,0,1,2,73,22,1,0,6,0,0,0,105,6,,sculpin,1
+unidentified snail eggs,0,0,0,0,0,0,0,0,0,1,0,1,1,,unidentified fish,1
+unidentified sponge,0,0,0,0,0,0,0,1,0,0,0,1,1,,striped burrfish,1
+western mosquito fish,0,0,0,0,0,0,0,0,2,0,0,2,1,,sand worm,1
+whelk snail,0,0,0,0,0,0,0,0,1,0,0,1,1,,clam worm probably nereis spp,1
 white fingered mud crab,0,0,0,0,1,0,0,0,0,0,0,1,1,,tube worm,1
-white mullet,0,0,0,0,2,0,0,0,0,0,0,2,1,,clam worm probably nereis spp,1
-white perch,0,0,0,1,0,0,0,4,0,0,1,6,3,,striped searobin,1
-windowpane flounder,0,0,0,0,0,0,1,0,1,0,0,2,2,,striped burrfish,1
-winter flounder,1,0,6,0,0,0,4,9,5,9,4,38,7,,bluespotted cornetfish,1
-wrasel sea bass,0,0,0,0,3,0,0,0,0,0,0,3,1,,spotted whiff,1
-Total Caught Per Year,17,16,123,1345,664,687,213,1381,1699,921,983,8049,11,,seaboard goby,1
+white mullet,0,0,0,0,2,0,0,0,0,0,0,2,1,,mole crab,1
+white perch,0,0,0,1,0,0,0,4,0,0,1,6,3,,striped anchovy,0
+windowpane flounder,0,0,0,0,0,0,1,0,1,0,0,2,2,,needlefish,0
+winter flounder,1,0,6,0,0,0,4,9,5,9,4,38,7,,polychaete worm,0
+wrasel sea bass,0,0,0,0,3,0,0,0,0,0,0,3,1,,undetermined jelly,0
+Total Caught Per Year,17,16,123,1345,664,687,213,1381,1699,921,994,8060,11,,spot,0
