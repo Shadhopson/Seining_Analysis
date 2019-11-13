@@ -1,11 +1,10 @@
-Run:
-Reformat_And_Combine_All_Data_And_Make_All_Seins_CSV.ipynb
-Take the data from all the seining csv's and put it into the same format and seives it to the CSV All_Seins that records only th Species, the amount caught and the date
 
-Run:
-Correct_Fish_Names_In_All_Seins_CSV_And_Make_Name_Corrected_All_Seins_CSV.ipynb
-Finds the fish that have been given different names even though they're the same species and combines them and saves it in Name_Corrected_All_Seins.csv
+Make combined data set ready to use: Go to the folder Reformat Files
+Run:Create_Combined_Table_Making_All_Seins_All_Data_reformatted
 
+Run:Standardize Date
+
+Run: CleanEverything_Make_Clean_For_Analysis_All_Data
 
 Optional:
 
@@ -19,10 +18,3 @@ Creates graphs for number of species caught, and amount of fish caught. In need 
 
 Notes:
 If no amount set to 1, if too many to count set to 30, have a 10-15 that is currently being listed as 1015 which is no good.
-
-
-Updated:
-Create_Combined_Table_Making_All_Seins_All_Data_reformatted
-Standardize_Date
-Cleaned_For_Analysis_All_Data.csv update except for battery park section
-Cleaned_For_Analysis_Compressed_By_Day.csv
