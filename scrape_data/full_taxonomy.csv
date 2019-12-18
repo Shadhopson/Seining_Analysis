@@ -1,0 +1,107 @@
+,Kingdom:,Phylum:,Class:,Order:,Family:,Genus:,Species:,Name
+0,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Alosa,A.pseudoharengus,alewife
+1,Animalia,Chordata,Actinopterygii,Anguilliformes,Anguillidae,Anguilla,A.rostrata,american eel
+2,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Alosa,A.(A.) sapidissima,american shad
+3,Animalia,Arthropoda,Malacostraca,Amphipoda,,,,amphipod
+4,Animalia,Cnidaria,Anthozoa,Actiniaria,,,,sea anemone
+5,Animalia,Arthropoda,Malacostraca,Decapoda,Varunidae,Hemigrapsus,H.sanguineus,asian shore crab
+6,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Clupea,C.harengus,atlantic herring
+7,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Brevoortia,B.tyrannus,atlantic menhaden
+8,Animalia,Chordata,Actinopterygii,Beloniformes,Belonidae,Strongylura,S.marina,atlantic needlefish
+9,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Menidia,M.menidia,atlantic silverside
+10,Animalia,Chordata,Actinopterygii,Gadiformes,Gadidae,Microgadus,M.tomcod,atlantic tomcod
+11,Animalia,Chordata,Actinopterygii,Clupeiformes,Engraulidae,Anchoa,A.mitchilli,bay anchovy
+12,Animalia,Arthropoda,Malacostraca,Decapoda,Panopeidae,Panopeus,P.herbstii,black fingered mud crab
+13,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Centropristis,C.striata,black sea bass
+14,Animalia,Arthropoda,Malacostraca,Decapoda,Portunidae,Callinectes,C.sapidus,blue crab
+15,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,M.edulis,blue mussel
+16,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Alosa,A.aestivalis,blueback herring
+17,Animalia,Chordata,Actinopterygii,Perciformes,Pomatomidae,Pomatomus,P.saltatrix,bluefish
+18,Animalia,Chordata,Actinopterygii,Syngnathiformes,Fistulariidae,Fistularia,F.commersonii,bluespotted cornetfish
+19,Animalia,Arthropoda,Malacostraca,Decapoda,Calappidae,Calappa,,box crab
+20,Animalia,Chordata,,,,,,colonial tunicate
+21,Animalia,Ctenophora,Nuda,Beroida,Beroidae,Beroe,B.cucumis,comb jelly beroe
+22,Animalia,Ctenophora,Tentaculata,Lobata,Bolinopsidae,Mnemiopsis,M.leidyi,comb jelly leidyi
+23,Animalia,Mollusca,Gastropoda,,Littorinidae,Littorina,Littorina littorea,common periwinkle snail
+24,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Tautogolabrus,T.adspersus,cunner
+25,Animalia,Mollusca,Gastropoda,,Nassariidae,Tritia,T.obsoleta,eastern mud snail
+26,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,C.virginica,eastern oyster
+27,Animalia,Chordata,Ascidiacea,Pleurogona,Styelidae,Botryllus,B.schlosseri,golden star tunicate
+28,Animalia,Arthropoda,Malacostraca,Decapoda,Portunidae,Carcinus,C.maenas,green crab
+29,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,M.aenaeus,grubby
+30,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Achiridae,Trinectes,T.maculatus,hogchoker
+31,Animalia,Arthropoda,,Xiphosura,Limulidae,,,horseshoe crab
+33,Animalia,Cnidaria,Hydrozoa,,,,,hydrozoa
+34,Animalia,Arthropoda,Malacostraca,Isopoda,,,,isopod
+35,Animalia,Arthropoda,Malacostraca,Decapoda,Portunidae,Ovalipes,O.ocellatus,lady crab
+36,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,C.capillata,lions mane jellyfish
+37,Animalia,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,P.longicarpus,long clawed hermit crab
+38,Animalia,Arthropoda,Malacostraca,Stomatopoda,,,,mantis shrimp
+39,Animalia,Arthropoda,Malacostraca,Decapoda,,,,mole crab
+40,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Ulmaridae,Aurelia,,moon jelly
+41,Animalia,Mollusca,Gastropoda,,Nassariidae,,,mud snail
+42,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,,,mullet fish
+43,Animalia,Chordata,Actinopterygii,Gobiiformes,Gobiidae,Gobiosoma,G.bosc,naked goby
+44,Animalia,Chordata,Actinopterygii,Beloniformes,Belonidae,,,needlefish
+45,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Menticirrhus,M.saxatilis,northern kingfish
+46,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Syngnathus,S.fuscus,northern pipefish
+47,Animalia,Chordata,Actinopterygii,Tetraodontiformes,Tetraodontidae,Sphoeroides,S.maculatus,northern puffer
+48,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Triglidae,Prionotus,P.carolinus,northern sea robin
+49,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Hippocampus,H.erectus,northern seahorse
+50,Animalia,Chordata,Actinopterygii,Trachiniformes,Uranoscopidae,Astroscopus,A.guttatus,northern stargazer
+51,Animalia,Mollusca,Gastropoda,,Muricidae,Urosalpinx,U.cinerea,oyster drill snail
+52,Animalia,Chordata,Actinopterygii,Batrachoidiformes,Batrachoididae,Opsanus,O.tau,oyster toadfish
+53,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,,,pin fish
+54,Animalia,Chordata,Actinopterygii,Gadiformes,Gadidae,Pollachius,,pollock
+55,Animalia,Porifera,Demospongiae,Poecilosclerida,Microcionidae,Clathria,C.,red beard sponge
+56,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Geukensia,G.demissa,ribbed mussel
+57,Animalia,Arthropoda,Malacostraca,Decapoda,Crangonidae,Crangon,C.septemspinosa,sand shrimp
+58,Animalia,Annelida,Polychaeta,Phyllodocida,Nereididae,Alitta,A.virens,sandworm
+59,Animalia,Arthropoda,Malacostraca,Amphipoda,,,,scud
+60,Animalia,Chordata,Ascidiacea,,,,,sea squirt
+61,Animalia,Chordata,Actinopterygii,Gobiiformes,Gobiidae,Gobiosoma,G.ginsburgi,seaboard goby
+62,Animalia,Chordata,Actinopterygii,Scombriformes,Sphyraenidae,Sphyraena,,sennet
+63,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Calamus,C.penna,sheepshead porgy
+64,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemonetes,,shore shrimp
+65,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Bairdiella,B.chrysoura,silver perch
+66,Animalia,Chordata,Actinopterygii,Gobiesociformes,Gobiesocidae,Gobiesox,G.strumosus,skilletfish
+67,Animalia,Mollusca,Bivalvia,Myida,Myidae,Mya,M.arenaria,softshell clam
+68,Animalia,Arthropoda,Malacostraca,Decapoda,,,,spider crab
+69,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Leiostomus,L.xanthurus,spot
+70,Animalia,Chordata,Actinopterygii,Gadiformes,Phycidae,Urophycis,U.regia,spotted hake
+71,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Paralichthyidae,Citharichthys,,spotted whiff
+72,Animalia,Chordata,Actinopterygii,Clupeiformes,Engraulidae,Anchoa,,striped anchovy
+73,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Morone,M.saxatilis,striped bass
+74,Animalia,Chordata,Actinopterygii,Tetraodontiformes,Diodontidae,Chilomycterus,C.schoepfi,striped burrfish
+75,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Triglidae,Prionotus,P.evolans,striped searobin
+76,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Paralichthyidae,Paralichthys,P.dentatus,summer flounder
+77,Animalia,Chordata,Actinopterygii,Labriformes,Labridae,Tautoga,T.onitis,tautog
+78,Animalia,Chordata,,,,,,tube worm
+79,Animalia,,,,,,,undetermined jelly
+80,Animalia,Chordata,Actinopterygii,Clupeiformes,Engraulidae,,,unidentified anchovy
+81,Animalia,Chordata,Actinopterygii,Perciformes,,,,unidentified bass
+82,Animalia,Mollusca,Bivalvia,,,,,unidentified clam
+83,Animalia,Ctenophora,,,,,,unidentified comb jelly
+84,Animalia,Chordata,,,,,,unidentified fish
+85,Animalia,Chordata,Actinopterygii,Pleuronectiformes,,,,unidentified flatfish
+86,Animalia,Chordata,Actinopterygii,Pleuronectiformes,,,,unidentified flounder
+87,Animalia,Arthropoda,Malacostraca,Decapoda,,,,unidentified hermit crab
+88,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,,,unidentified herring
+89,Animalia,Cnidaria,,,,,,unidentified jelly fish
+90,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,,,unidentified menhaden
+91,Animalia,Arthropoda,Malacostraca,Decapoda,Panopeidae,,,unidentified mud crab
+92,Animalia,Mollusca,Bivalvia,,,,,unidentified mussel
+93,Animalia,Annelida,Polychaeta,,,,,unidentified polychaete worm
+94,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,,,unidentified porgy
+95,Animalia,Chordata,Actinopterygii,Scorpaeniformes,,,,unidentified sculpin
+96,Animalia,Mollusca,Gastropoda,,,,,unidentified sea snail
+97,Animalia,Arthropoda,Malacostraca,Decapoda,,,,unidentified shrimp
+98,Animalia,Porifera,,,,,,unidentified sponge
+99,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Gambusia,G.affinis,western mosquito fish
+100,Animalia,Mollusca,Gastropoda,,Buccinidae,,,whelk snail
+101,Animalia,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,R.harrisii,white fingered mud crab
+102,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Mugil,M.curema,white mullet
+103,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Morone,M.americana,white perch
+104,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Scophthalmidae,Scophthalmus,S.aquosus,windowpane flounder
+105,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Pleuronectidae,Pseudopleuronectes,P.americanus,winter flounder
+106,Animalia,Chordata,Actinopterygii,Perciformes,,,,wrasel sea bass
